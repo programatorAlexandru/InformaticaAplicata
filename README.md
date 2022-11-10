@@ -1,0 +1,2 @@
+# InformaticaAplicata
+teme laborator
